@@ -1,9 +1,9 @@
 # 🚀 Ocean-Shader!
 
 <div>
-    <img src="https://img.shields.io/github/commit-activity/y/fengtianxi001/ocean-shade?style=flat-square">
-    <img src="https://img.shields.io/github/package-json/v/fengtianxi001/ocean-shade?style=flat-square">
-    <img src="https://img.shields.io/github/languages/code-size/fengtianxi001/ocean-shade?style=flat-square">
+    <img src="https://img.shields.io/github/commit-activity/y/fengtianxi001/ocean-shader?style=flat-square">
+    <img src="https://img.shields.io/github/package-json/v/fengtianxi001/ocean-shader?style=flat-square">
+    <img src="https://img.shields.io/github/languages/code-size/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/license/fengtianxi001/Ocean-Shader?style=flat-square">
     <img src="https://img.shields.io/github/languages/top/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/issues/fengtianxi001/ocean-shader?style=flat-square">
