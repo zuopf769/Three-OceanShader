@@ -7,11 +7,12 @@
     <img src="https://img.shields.io/github/license/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/languages/top/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/last-commit/fengtianxi001/ocean-shader?style=flat-square">
+</div>
+<div>
     <img src="https://img.shields.io/github/watchers/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/forks/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/stars/fengtianxi001/ocean-shader?style=flat-square">
 </div>
-
 ### 简介
   使用着色器生成的一个`three.js`的简单案例, 适合用网站首页的背景图
   
