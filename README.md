@@ -1,11 +1,11 @@
 # 🚀 Ocean-Shader!
 
 <div>
-  <img src="https://img.shields.io/github/languages/top/fengtianxi001/ocean-shader?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/fengtianxi001/ocean-shader?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/fengtianxi001/ocean-shader?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/fengtianxi001/ocean-shader?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/fengtianxi001/Ocean-Shader?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/top/fengtianxi001/ocean-shader?style=flat-square">
+  <img src="https://img.shields.io/github/issues/fengtianxi001/ocean-shader?style=flat-square">
+  <img src="https://img.shields.io/github/forks/fengtianxi001/ocean-shader?style=flat-square">
+  <img src="https://img.shields.io/github/stars/fengtianxi001/ocean-shader?style=flat-square">
+  <img src="https://img.shields.io/github/license/fengtianxi001/Ocean-Shader?style=flat-square">
   
   
 </div>
