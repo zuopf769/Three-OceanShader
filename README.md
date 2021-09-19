@@ -1,7 +1,7 @@
 # 🚀 Ocean-Shader!
 
 <div>
-  <img src="https://img.shields.io/github/languages/top/fengtianxi001/turbine_large_screen">
+  <img src="https://img.shields.io/github/languages/top/fengtianxi001/ocean-shader">
   <img src="https://travis-ci.org/boennemann/badges.svg?branch=master">
   <img src="https://img.shields.io/github/issues/fengtianxi001/ocean-shader">
   <img src="https://img.shields.io/github/forks/fengtianxi001/ocean-shader">
