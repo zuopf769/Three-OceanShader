@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/github/issues/fengtianxi001/ocean-shader">
   <img src="https://img.shields.io/github/forks/fengtianxi001/ocean-shader">
   <img src="https://img.shields.io/github/stars/fengtianxi001/ocean-shader">
+  <img src="https://img.shields.io/github/license/fengtianxi001/Ocean-Shader?style=for-the-badge">
+  
+  
 </div>
 
 ### 简介
