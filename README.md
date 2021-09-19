@@ -4,12 +4,12 @@
     <img src="https://img.shields.io/github/commit-activity/y/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/package-json/v/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/languages/code-size/fengtianxi001/ocean-shader?style=flat-square">
-    <img src="https://img.shields.io/github/license/fengtianxi001/Ocean-Shader?style=flat-square">
+    <img src="https://img.shields.io/github/license/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/languages/top/fengtianxi001/ocean-shader?style=flat-square">
-    <img src="https://img.shields.io/github/issues/fengtianxi001/ocean-shader?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/fengtianxi001/ocean-shader?style=flat-square">
+    <img src="https://img.shields.io/github/watchers/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/forks/fengtianxi001/ocean-shader?style=flat-square">
     <img src="https://img.shields.io/github/stars/fengtianxi001/ocean-shader?style=flat-square">
-    <img src="https://img.shields.io/github/license/fengtianxi001/Ocean-Shader?style=flat-square">
 </div>
 
 ### 简介
